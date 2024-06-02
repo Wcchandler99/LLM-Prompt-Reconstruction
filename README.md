@@ -1,0 +1,8 @@
+- Python Code
+- TFIDF
+- Word2Vec
+- Doc2Vec
+- BERT
+- Supervised Learning
+- LLM (ChatGPT 4)
+- Tensorflow
