@@ -5,4 +5,4 @@
 - BERT
 - Supervised Learning
 - LLM (ChatGPT 4)
-- Tensorflow
+- Torch
